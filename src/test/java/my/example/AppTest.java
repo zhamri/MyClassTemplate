@@ -1,4 +1,4 @@
-package com.zhamri;
+package my.example;
 
 import org.junit.Test;
 

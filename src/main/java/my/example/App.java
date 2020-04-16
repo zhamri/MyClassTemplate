@@ -1,7 +1,7 @@
-package com.zhamri;
+package my.example;
 
 /**
- * Hello world!
+ * This is an example of Maven Structure
  */
 public class App {
     public static void main(String[] args) {

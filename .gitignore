@@ -38,7 +38,7 @@ buildNumber.properties
 !/.mvn/wrapper/maven-wrapper.jar
 
 .idea/
-MyClassTemplate.iml
+*.iml
 
 *~
 .DS_Store
